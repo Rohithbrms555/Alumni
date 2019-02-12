@@ -1,2 +1,2 @@
-# blog
-WP Assignment
+# Alumni
+Alumni Association Website
